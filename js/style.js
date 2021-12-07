@@ -34,7 +34,7 @@ const btn_home = document.getElementById('label_home');
 // ボタンクリック時にアラート表示
 // 熱帯雨林の植林活動の支援をさせる
 btn_home.onclick = function () {
-  alert('We plant trees.. :D');
+  alert('🌱 Bye Bye 🌱');
 }
 
 // --- 波紋エフェクト
