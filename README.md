@@ -1,5 +1,5 @@
 # links
-[links](https://ghsable.github.io/links/) is my links.
+[links](https://ghsable.github.io/links/) is my Links.
 
 ## Thanks
 > * **HTML**
