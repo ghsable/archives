@@ -32,7 +32,6 @@ btn_power.onclick = function () {
 const btn_home = document.getElementById('label_home');
 
 // ボタンクリック時にアラート表示
-// 熱帯雨林の植林活動の支援をさせる
 btn_home.onclick = function () {
   alert('🌱 Bye Bye 🌱');
 }

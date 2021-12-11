@@ -1,5 +1,5 @@
-# ghsable.github.io
-[ghsable.github.io](https://ghsable.github.io/) is my portfolio.
+# links
+[links](https://ghsable.github.io/links/) is my links.
 
 ## Thanks
 > * **HTML**
