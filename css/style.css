@@ -6,6 +6,11 @@
 
 /* ------------------------- All ------------------------- */
 
+* {
+  margin: 0;                                         /* マージン無効 */
+  padding: 0;                                        /* パディング無効 */
+}
+
 body {
   /* 文字 */
   font-size: 20px;                                   /* フォントサイズ */
@@ -18,11 +23,6 @@ body {
   background-position: center center;                /* 上下左右中央 */
   background-size: cover;                            /* コンテナの大きさに基づいて自動拡大縮小 */
   background-attachment: fixed;                      /* コンテンツの高さが大きい時、動かないように固定 */
-}
-
-* {
-  margin: 0;                                         /* マージン無効 */
-  padding: 0;                                        /* パディング無効 */
 }
 
 a {
