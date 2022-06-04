@@ -4,7 +4,7 @@ ityped.init(document.querySelector("#ityped"), {
   // required - for now, only accepting texts
   strings: ['Welcome to my home.',
             'My name is suna.',
-            'I am a Lifehacker.',
+            'I am a Hac... eth..',
             'I want to do something fun! XD'],
   typeSpeed: 20,     //タイピング速度
   backSpeed: 5,      //バックスペース速度
