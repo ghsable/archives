@@ -1,4 +1,4 @@
-# links
+# archives
 [archives](https://ghsable.github.io/archives/) is my Archives.
 
 ## Thanks
